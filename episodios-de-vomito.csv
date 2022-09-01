@@ -1,0 +1,37 @@
+﻿Data;Horário;Local;Queixa;Saliva grossa;Catarro;Tontura;Sufocamento;Preocupação;Ansiosa;Nariz entupido;Nariz sangrando;Nojo;Refluxo;Azia;Tempo desde refeição;Alívio;Resultado do alívio
+03/08/2022;15:00;casa;vômito;sim;sim;não;sim;;não;sim;sim;sim;não;não;0,75h;;
+03/08/2022;18:30;casa;vômito;sim;sim;não;sim;;não;sim;não;sim;não;não;5h;;
+04/08/2022;05:30;casa;ânsia;sim;sim;não;sim;atrasar em consulta médica;sim;sim;sim;não;não;não;8h;soro fisiológico e gargarejo de água e sal;parcialmente
+04/08/2022;07:50;casa;ânsia;sim;sim;não;sim;atrasar para trabalho;não;sim;sim;não;não;não;10h;cuspir, soro fisiológico;sim
+04/08/2022;15:30;trabalho;ânsia;sim;sim;não;sim;;não;sim;sim;não;não;não;5h;cuspir, soro fisiológico;sim
+04/08/2022;18:15;rua;golfada;sim;sim;não;sim;;não;sim;não;sim;não;não;2,75h;cuspir, soro fisiológico;sim
+04/08/2022;21:00;casa;golfada;não;sim;não;não;;não;não;não;não;sim;sim;1,5h;;
+08/08/2022;05:30;casa;ânsia;sim;sim;não;sim;ir ao médico;sim;sim;sim;não;não;não;8h;soro fisiológico e gargarejo de água e sal;parcialmente
+08/08/2022;08:30;casa;vômito;não;não;não;não;;não;sim;não;sim;não;sim;0,25h;;
+08/08/2022;11:15;trabalho;vômito;não;não;não;não;;não;sim;não;não;não;sim;0,25h;;
+08/08/2022;15:30;trabalho;ânsia;sim;sim;não;sim;;não;sim;sim;não;não;não;0,25h;cuspir e bala de gengibre;sim
+09/08/2022;15:00;trabalho;vômito;sim;sim;não;sim;;não;sim;não;não;não;não;0,25h;;
+09/08/2022;15:30;trabalho;ânsia;sim;sim;não;sim;;não;sim;sim;não;não;não;0,25h;cuspir e bala de gengibre;sim
+09/08/2022;20:00;casa;vômito;sim;sim;não;sim;;não;sim;não;não;não;não;0,25h;;
+10/08/2022;12:20;trabalho;vômito;sim;sim;não;não;;não;sim;não;não;não;não;0,25h;;
+14/08/2022;19:15;casa;vômito;sim;sim;não;não;;não;sim;sim;não;sim;sim;0,25h;;
+15/08/2022;16:30;casa;golfada;sim;sim;não;não;;não;sim;não;não;não;não;0,5h;;
+15/08/2022;22:00;casa;vômito;sim;sim;não;sim;amiga;sim;sim;sim;sim;não;não;1h;;
+21/08/2022;10:00;casa;vômito;sim;sim;não;sim;;não;sim;sim;sim;não;sim;9h;;
+22/08/2022;07:40;casa;vômito;sim;sim;não;sim;;sim;sim;sim;não;não;não;9h;;
+22/08/2022;15:20;trabalho;ânsia;sim;sim;não;sim;;não;sim;sim;não;sim;sim;0,25h;cuspir, soro fisiológico, bala de própolis;sim
+22/08/2022;19:40;casa;vômito;sim;sim;não;sim;;não;sim;sim;sim;não;sim;0,5h;soro fisiológico;não
+22/08/2022;21:30;casa;vômito;sim;sim;não;sim;;não;sim;não;sim;não;não;0,75h;assoar nariz, soro fisiológico;não
+23/08/2022;07:30;casa;ânsia;sim;sim;não;não;;não;sim;sim;não;não;não;9h;cuspir;sim
+23/08/2022;20:45;casa;vômito;sim;sim;não;não;ir ao médico;sim;sim;sim;não;não;sim;1,2h;beber água gelada;parcialmente
+24/08/2022;06:00;casa;vômito;sim;sim;não;sim;ir ao médico;sim;sim;sim;não;não;não;0,1h;assoar nariz;não
+24/08/2022;21:10;casa;vômito;sim;sim;não;não;;não;sim;sim;não;não;sim;2h;;
+25/08/2022;07:15;casa;vômito;sim;sim;não;sim;;não;sim;sim;sim;não;não;10h;soro fisiológico;não
+25/08/2022;16:05;trabalho;vômito;sim;sim;não;não;;sim;sim;sim;não;não;não;0,25h;;
+25/08/2022;19:15;casa;vômito;sim;sim;não;não;;não;sim;sim;não;não;não;0,25h;;
+29/08/2022;15:00;trabalho;vômito;sim;sim;não;sim;;não;sim;sim;não;não;não;0,25h;;
+29/08/2022;20:30;casa;vômito;sim;sim;não;não;;não;sim;sim;não;não;não;1,5h;;
+30/08/2022;07:40;casa;vômito;sim;sim;não;sim;;não;sim;sim;não;não;não;19h;;
+30/08/2022;15:40;trabalho;vômito;sim;sim;não;sim;;não;sim;sim;não;não;sim;0,2h;;
+30/08/2022;20:40;casa;vômito;sim;sim;não;não;;não;sim;sim;não;não;não;1h;;
+31/08/2022;21:30;casa;vômito;sim;sim;não;sim;;não;sim;não;não;não;não;1h;;

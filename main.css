@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0 30px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#cartao-perfurado {
+    grid-column: 1 / 3;
+}
+
+#caracteristicas-individuais {
+    grid-column: 1 / 2;
+}
+
+#correlacao-das-caracteristicas {
+    grid-column: 2 / 3;
+}
